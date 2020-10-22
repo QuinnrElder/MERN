@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Quinne34:Quinne34@mern.mn275.mongodb.net/MERN?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Quinne34:Quinne34@mern.mn275.mongodb.net/MERN?retryWrites=true&w=majority",
+  "jwt-Secret": "MySecretToken"
 }
